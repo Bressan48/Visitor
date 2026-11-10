@@ -1,4 +1,4 @@
-package padroescomportamentais.visitor;
+package hospital;
 
 import org.junit.jupiter.api.Test;
 

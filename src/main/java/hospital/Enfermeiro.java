@@ -1,4 +1,4 @@
-package padroescomportamentais.visitor;
+package hospital;
 
 public class Enfermeiro implements Pessoa {
 

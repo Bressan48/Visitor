@@ -1,4 +1,4 @@
-package padroescomportamentais.visitor;
+package hospital;
 
 public interface Visitor {
 

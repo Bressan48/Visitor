@@ -1,4 +1,4 @@
-package padroescomportamentais.visitor;
+package hospital;
 
 public interface Pessoa {
     String aceitar(Visitor visitor);
